@@ -36,7 +36,7 @@ To compile and build the project executable using the provided Makefile, run:
 make run
 ```
 
-To clean 
+To clean build files
 ```
 make clean
 ```
@@ -47,9 +47,9 @@ make clean
 gcc -o raven_vsfs raven_vsfs.c
 ```
 
-To Run
+To Run the program
 ```
-./raven_vsfs <filesystem_image>
+./raven_vsfs <filesystem_image.img>
 ```
 
 ---
@@ -124,3 +124,8 @@ The program performs a series of steps:
 
 ---
 
+## Screenshots of the Program
+
+Here is a screenshot of RAVEN_VSFS running:
+
+![RAVEN_VSFS running](/home/raven/Downloads/vsfs11.png)
