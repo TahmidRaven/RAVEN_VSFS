@@ -14,6 +14,18 @@ A consistency checker and repair tool for the **Very Simple File System (VSFS)**
 
 ---
 
+## 📦 File Structure
+
+```plaintext
+.
+├── raven_vsfs.c       # Main program source
+├── Makefile           # Build instructions and rules
+├── LICENSE            # GNU GENERAL PUBLIC LICENSE
+├── README.md          # This file (project documentation)
+└── vsfs.img           # Default VSFS filesystem image used for testing
+
+```
+---
 ## ⚙️ Build Instructions
 
 ### Using Makefile (recommended)
@@ -112,10 +124,3 @@ The program performs a series of steps:
 
 ---
 
-## 📦 File Structure
-
-```plaintext
-.
-├── raven_vsfs.c       # Main program source
-├── LICENSE            # GNU GENERAL PUBLIC LICENSE
-└── README.md          # This file
