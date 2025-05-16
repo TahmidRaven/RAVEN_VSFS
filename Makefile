@@ -15,6 +15,10 @@ $(TARGET): $(OBJ)
 %.o: %.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
+run: $(TARGET)
+	./$(TARGET)
+
+
 clean:
 	rm -f $(TARGET) $(OBJ)
 
