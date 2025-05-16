@@ -14,6 +14,34 @@ A consistency checker and repair tool for the **Very Simple File System (VSFS)**
 
 ---
 
+## ⚙️ Build Instructions
+
+### Using Makefile (recommended)
+
+To compile and build the project executable using the provided Makefile, run:
+
+```bash
+make run
+```
+
+To clean 
+```
+make clean
+```
+
+### Manual Compilation with gcc
+
+```
+gcc -o raven_vsfs raven_vsfs.c
+```
+
+To Run
+```
+./raven_vsfs <filesystem_image>
+```
+
+---
+
 ## 🔍 Features
 
 - ✅ **Superblock validation**
