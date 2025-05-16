@@ -126,6 +126,11 @@ The program performs a series of steps:
 
 ## Screenshots of the Program
 
-Here is a screenshot of RAVEN_VSFS running:
+Here are some screenshots of RAVEN_VSFS running:
 
-![RAVEN_VSFS running](/home/raven/Downloads/vsfs11.png)
+  ![vsfs11](https://github.com/user-attachments/assets/5fe6c0f3-7b90-4503-83ac-e40bb1bd6a58)
+  ![vsfs12](https://github.com/user-attachments/assets/3966c518-6603-4267-8107-83b003129c7b)
+  ![vsfs13](https://github.com/user-attachments/assets/51b275bb-6bf7-4f99-bf81-3d6d87f57d97)
+
+
+
